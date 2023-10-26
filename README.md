@@ -11,4 +11,4 @@ Use the command.
 
 To view the live site of the app click the beolw link.
 
-- [Live site]()
+- [Live site](https://shopping-cart-xi-azure.vercel.app/)
